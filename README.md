@@ -35,24 +35,15 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
-</tr>
-<tr>
-
 - Frameworks: &nbsp;
   ![Springboot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-</tr>
-<tr>
-
 - Databases:  &nbsp;
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logoColor=red&logo=oracle)
   ![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logoColor=lightblue&logo=postgresql)
   ![Oracle](https://img.shields.io/badge/-SQLite-333333?style=flat&logoColor=blue&logo=sqlite)
-
-</tr>
-<tr>
 
 - IDEs: &nbsp;
   ![PyCharm](https://img.shields.io/badge/-Py%20Charm-333333?style=flat&logo=pycharm&logoColor=green)
@@ -66,9 +57,6 @@
   ![TestRail](https://img.shields.io/badge/-🌈️%20Test%20Rail-333333?style=flat)
   ![XRay](https://img.shields.io/badge/-XRay-333333?style=flat&logo=jira&logoColor=blue)
   ![QTP](https://img.shields.io/badge/-Quick%20Test%20Professional-333333?style=flat&logo=hp&logoColor=blue)
-
-</tr>
-<tr>
 
 - Test Tools: &nbsp;
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -118,12 +106,12 @@
 
 
 ###  🎓 Certificates
-* <a href="https://www.scrum.org/user/589099"><img height="45" width="45" src="https://images.credly.com/images/db768524-81d9-435e-96fc-33b517e15616/blob.png"/>
-  Professional Scrum Master I (2019)</a>
-* <img height="45" width="45" src="https://hsto.org/getpro/moikrug/uploads/company/522/837/878/logo/medium_2e8e8e96756aec26513a90732c61d0f3.jpg"/>
-  Test Manager School (2019, № 21319)
-* <img height="45" width="45" src="https://www.gasq.org/files/content/gasq/downloads/certification/ISTQB/ISTQB.png"/>
+* <img height="45" width="45" src="https://www.gasq.org/files/content/gasq/downloads/certification/ISTQB/ISTQB.png" alt=""/>
   ISTQB Tester Foundation Level (2018)
+* <a href="https://www.scrum.org/user/589099"><img height="45" width="45" src="https://images.credly.com/images/db768524-81d9-435e-96fc-33b517e15616/blob.png"/>
+Professional Scrum Master I (2019)</a>
+* <img height="45" width="45" src="https://hsto.org/getpro/moikrug/uploads/company/522/837/878/logo/medium_2e8e8e96756aec26513a90732c61d0f3.jpg" alt=""/>
+  Test Manager School (№ 21319, 2019)
 * <a href="http://scr.istqb.org/?name=Mitrofanova"><img height="45" width="45" src="https://www.gasq.org/files/content/gasq/downloads/certification/ISTQB/ISTQB.png"/>
   ISTQB Automation Tester Advanced Level (2021)</a>
 

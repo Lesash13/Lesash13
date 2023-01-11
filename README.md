@@ -124,4 +124,4 @@ Professional Scrum Master I (2019)</a>
 * ⚕️ I am interested in medicine and veterinary, so I visit medical webinars from time to time just for myself and got Vet assistant certificate to take right care about my cat =)
 * 🧚 ‍️Permanently try to read something interesting and learn something new in different spheres from programming to writing fairy tales =)
 * ✈️ I like to travel, and I am fan of Thailand, nevertheless do not like sun =)
-* 🏂   Going snowboarding for already 5 years and I dream to visit Orlando Harry Potter village again, I am a real fan of this Universe =)
+* 🏂   Doing snowboarding for already 5 years and also dreaming to visit Orlando Harry Potter village again, I am a real fan of this Universe =)

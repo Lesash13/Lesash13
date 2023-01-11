@@ -1,25 +1,30 @@
 ![banner](image.png)
-<p align="center"> <h1 align="center"> Hi, I am Viktoriia <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center"> <h1 align="center"> Hi, I am Viktoria <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /></h1> </p>
+         width="45" /></h1>
 <p align="center">
-<a href="mailto:victoria.mitrofanova2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://t.me/Lesash"><img src="https://img.shields.io/badge/Telegram-E4405F?style=for-the-badge&logo=telegram&colorB=blue&logoColor=white"/> </a>
-<a href="https://www.instagram.com/lesash_v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="https://www.linkedin.com/in/victoriya-mitrofanova-96839278/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=darkblue"/> </a>
+<a href="mailto:victoria.mitrofanova2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/> </a>
+<a href="https://t.me/Lesash"><img src="https://img.shields.io/badge/Telegram-E4405F?style=for-the-badge&logo=telegram&colorB=blue&logoColor=white" alt=""/> </a>
+<a href="https://www.instagram.com/lesash_v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""/> </a>
+<a href="https://www.linkedin.com/in/victoriya-mitrofanova-96839278/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=darkblue" alt=""/> </a>
 </p>
 
-* I am
-* I am
-* I am
+* 🎓 I graduated from [ITMO, Russia](https://en.itmo.ru/en/page/42/Facts_&_Figures.htm) University in 2013 and have a Master degree in Program engineering
+* ⚡️I started my career as Java automation tester in 2011 and continue improving my automation skills (11 years) till now, comparing with the role of QA Lead (6 years)
+* 🙋🏻‍ Had a period of 2 years of improving social skills and public performance 
+as Certified Scrum Master (2 years) in Agile SAFe department of Deutsche Telekom and also  learned product development as Product Owner (half year) 
+* 💻 ️Also did some Java microservice development and bug fixing in Agile team, as Scrum Master role did not take full time
+* 🔎 Now I am interested in programming skills improvement, so I am learning Django Python, React, Kotlin, planning to have a look on Go maybe
+* 💞️ I think the best variant of job for me is a mix of different roles in Agile Scrum team, mostly middle Fullstack developer and QA Automation tester roles, 
+but I also like orderliness, so some org. staff is also nice for me
 
 ***
 ### ⚙ GitHub Analytics
 <table style="width:100%">
   <tr>
-       <td> <img src="https://github-readme-stats.vercel.app/api?username=Lesash13&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-       <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lesash13&theme=dark&hide_border=true&layout=compact"></td>
+       <td><img src="https://github-readme-stats.vercel.app/api?username=Lesash13&show_icons=true&theme=dark&locale=en&hide_border=true" alt="" /></td>
+       <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lesash13&theme=dark&hide_border=true&layout=compact" alt=""></td>
 </tr>
 </table>
 
@@ -36,7 +41,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 - Frameworks: &nbsp;
-  ![Springboot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
@@ -116,3 +121,7 @@ Professional Scrum Master I (2019)</a>
   ISTQB Automation Tester Advanced Level (2021)</a>
 
 ### 🤍 Hobbies
+* ⚕️ I am interested in medicine and veterinary, so I visit medical webinars from time to time just for myself and got Vet assistant certificate to take right care about my cat =)
+* 🧚 ‍️Permanently try to read something interesting and learn something new in different spheres from programming to writing fairy tales =)
+* ✈️ I like to travel, and I am fan of Thailand, nevertheless do not like sun =)
+* 🏂   Going snowboarding for already 5 years and I dream to visit Orlando Harry Potter village again, I am a real fan of this Universe =)

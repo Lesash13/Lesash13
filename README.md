@@ -48,7 +48,9 @@ but I also like orderliness, so some org. staff is also nice for me
 - Databases:  &nbsp;
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logoColor=red&logo=oracle)
   ![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logoColor=lightblue&logo=postgresql)
-  ![Oracle](https://img.shields.io/badge/-SQLite-333333?style=flat&logoColor=blue&logo=sqlite)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logoColor=blue&logo=sqlite)
+  ![Liquibase](https://img.shields.io/badge/-Liquibase-333333?style=flat&logoColor=orange&logo=liquibase)
+  ![Flyway](https://img.shields.io/badge/-Flyway-333333?style=flat&logoColor=red&logo=flyway)
 
 - IDEs: &nbsp;
   ![PyCharm](https://img.shields.io/badge/-Py%20Charm-333333?style=flat&logo=pycharm&logoColor=green)

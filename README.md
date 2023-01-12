@@ -23,8 +23,8 @@ but I also like orderliness, so some org. staff is also nice for me
 ### ⚙ GitHub Analytics
 <table style="width:100%">
   <tr>
-       <td><img src="https://github-readme-stats.vercel.app/api?username=Lesash13&show_icons=true&theme=dark&locale=en&hide_border=true" alt="" /></td>
-       <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lesash13&langs_count=8&theme=dark&hide_border=true&layout=compact" alt=""></td>
+       <td><img src="https://github-readme-stats-ebon-xi.vercel.app/api?username=Lesash13&show_icons=true&theme=dark&locale=en&hide_border=true" alt="" /></td>
+       <td><img height="180em" src="https://github-readme-stats-ebon-xi.vercel.app/api/top-langs/?username=Lesash13&langs_count=8&theme=dark&hide_border=true&layout=compact" alt=""></td>
 </tr>
 </table>
 

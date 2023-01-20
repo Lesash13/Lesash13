@@ -38,7 +38,6 @@ but I also like orderliness, so some org. staff is also nice for me
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 - Frameworks: &nbsp;
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)

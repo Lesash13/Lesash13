@@ -15,7 +15,7 @@
 * 🙋🏻‍ Had a period of 2 years of improving social skills and public performance 
 as Certified Scrum Master (2 years) in Agile SAFe department of Deutsche Telekom and also  learned product development as Product Owner (half year) 
 * 💻 ️Also did some Java microservice development and bug fixing in Agile team, as Scrum Master role did not take full time
-* 🔎 Now I am interested in programming skills improvement, so I am learning Django Python, React, Kotlin, planning to have a look on Go maybe
+* 🔎 Now I am interested in programming skills improvement, so I am learning Django Pytho and Javascript with React, planning to have a look on Go maybe
 * 💞️ I think the best variant of job for me is a mix of different roles in Agile Scrum team, mostly middle Fullstack developer and QA Automation tester roles, 
 but I also like orderliness, so some org. staff is also nice for me
 
